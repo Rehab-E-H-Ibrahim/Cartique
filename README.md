@@ -1,7 +1,7 @@
 # Cartique (Angular)
 
 Clean, minimalist e-commerce UI (Angular).  
-**Live:** https://Rehab-E-H-Ibrahim.github.io/Cartique/home
+**Live:** https://Rehab-E-H-Ibrahim.github.io/Cartique/
 
 ## Run locally
 npm install  
