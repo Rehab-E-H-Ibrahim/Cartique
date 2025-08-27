@@ -1,0 +1,16 @@
+/* .slick-slide img {
+    height: 50vh;
+     width:100%; 
+    margin: 0 auto;
+    object-fit: cover;
+    border: none !important;
+   
+  } */
+
+  
+.slick-slide {
+  padding: 5px;
+  margin: 20px;
+  width: 80%;
+  height: 80%;
+}

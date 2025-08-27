@@ -1,0 +1,70 @@
+/* Main courasol */
+
+.title {
+  margin: 0;
+} 
+.subtitle {
+  margin: 0;
+  margin-top: 5px;
+  font-size: 14px;
+}
+.button-radius {
+  margin-top: 27px;
+}
+ .primary {
+  color: #1bd172;
+}
+
+
+
+
+/*-------------------------
+[9. Block slider]
+---------------------------*/
+.block-slider {
+  border: none;
+  width: 100%;
+}
+
+.block-slider img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+.caption-group1 {
+  text-align: left;
+  opacity: 0;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: opacity;
+  transition-timing-function: ease-out;
+}
+
+.slick-slide.slick-active .caption-group1 {
+  opacity: 1;
+  z-index: 1;
+  transition-delay: 0.3s;
+  transition-duration: 0.2s;
+  transition-property: opacity;
+  transition-timing-function: ease-in;
+}
+
+/* & .slick-list { margin: 0 -7px; & .slick-slide > div { padding: 0 10px; } } */
+/*------------------
+[4. Slidershow]
+------------------*/
+
+
+ .block-slider 
+.caption-group {
+  position: absolute;
+  top: 26%;
+  right: 16%;
+}
+
+
+/* slick corasol slide show css in home component  */
+
+
